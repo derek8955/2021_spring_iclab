@@ -1,4 +1,4 @@
-![Report](https://img.shields.io/badge/process-130nm-blue.svg)
+![Report](https://img.shields.io/badge/process-180nm-blue.svg)
 
 # 2021 ICLAB spring course
 
