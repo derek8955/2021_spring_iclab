@@ -2,6 +2,8 @@
 
 # 2021 ICLAB spring course
 
-- Lab1: Supper Mosfet Calculator
-- Lab2: String Matching Engine
-- Lab3: Sudoku
+- Lab1: Supper Mosfet Calculator (SMC)
+- Lab2: String Matching Engine (SME)
+- Lab3: Sudoku (SD)
+- Lab4: Neural Network (NN)
+- Lab6: Check Sum (CS)
